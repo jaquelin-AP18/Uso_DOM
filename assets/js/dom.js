@@ -17,7 +17,7 @@ subtitle.classList.add('red');
 //Removemos la clase
 subtitle.classList.remove('red');
 
-
+//Creamos un arreglo de animales
 const animales=['Perro','Gato', 'Mapache','Pez','Leopardo','Raton', 'Zorro'];
 const list=document.querySelector('#list');
 //push sirve para agregar elementos a un arreglo
